@@ -1,4 +1,4 @@
-# 🌟 Hello World! I'm Maya 🫧
+# Hello World! I'm Maya 🫧
 
 I’m a **senior computer science student** from **Lebanon** who loves combining **code and creativity** to build awesome projects 👩‍💻🎨  
 
