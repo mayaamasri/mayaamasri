@@ -13,5 +13,5 @@ I’m a **senior computer science student** from **Lebanon** who loves combining
 ---
 
 ## 🌟 Let’s Connect!   
-- 📧 [maya.elmasri@example.com](mailto:mayahmasri@hotmail.com)  
+- 📧 [Email](mailto:mayahmasri@hotmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mayahmasri)  
