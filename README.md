@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🌟 Hello World! I'm Maya 🫧
 
-<!--
-**mayaamasri/mayaamasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **senior computer science student** from **Lebanon** who loves combining **code and creativity** to build awesome projects 👩‍💻🎨  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 A Little About Me  
+- 🎨 **Passion:** Turning creative ideas into functional designs with **UI/UX magic**!  
+- 🌟 **Skills:**  
+  - Technologies: **Express.js**, **MongoDB**, **PostgreSQL**, **MySQL**, **Spring Boot**, **JavaFX**, **React**, **JavaScript**, **HTML/CSS** 
+  - Design Tools: **Figma**, **Photoshop**, **Illustrator**, **Canva**  
+
+---
+
+## 🌟 Let’s Connect!   
+- 📧 [maya.elmasri@example.com](mailto:mayahmasri@hotmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mayahmasri)  
